@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\contract tracing qr code.exe.config
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\contract tracing qr code.exe
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\contract tracing qr code.pdb
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\contract tracing qr code.xml
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\zxing.dll
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\zxing.presentation.dll
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\zxing.xml
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\bin\Debug\zxing.presentation.xml
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract_tracing_qr_code.Form1.resources
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract_tracing_qr_code.Resources.resources
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.vbproj.CopyComplete
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.exe
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.xml
+C:\Users\User\source\repos\contract tracing qr code\contract tracing qr code\obj\Debug\contract tracing qr code.pdb

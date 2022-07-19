@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfee501f-fd51-4977-b3a7-69e4f2c2169e": {
+      "ProjectGuid": "bfee501f-fd51-4977-b3a7-69e4f2c2169e",
+      "DisplayName": "contract tracing qr code",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
