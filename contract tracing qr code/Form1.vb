@@ -29,7 +29,7 @@ Public Class Form1
 
         Dim result As Result = Reader.Decode(pic)
         Try
-            Dim decoded As String = result.ToString().Trim()
+            Dim decoded As String = result.ToString()
             TextBox1.Text = decoded
             mystr = decoded
             cnt = CountWords(decoded)
@@ -41,7 +41,7 @@ Public Class Form1
         For i As Integer = 0 To 4
 
         Next
-        MessageBox.Show(cnt)
+        Label1.Visible = True
 
     End Sub
 
